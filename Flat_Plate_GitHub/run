@@ -1,0 +1,3 @@
+blockMesh
+icoFoam >> runlog &
+touch flat_plate_lowvis.foam
